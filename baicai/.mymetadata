@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="baicai"
+  id="myeclipse.1425364967769"
+  context-root="/baicai"
+  j2ee-spec="6.0"
+  archive="baicai.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
